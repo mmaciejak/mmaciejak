@@ -50,7 +50,7 @@ A lost-and-found search engine for Poland. It gathers the found-items lists that
 
 [**Blender Auto Format**](https://store.csmx.eu/l/auto_format?layout=profile) keeps one render resolution for many formats (16:9, 9:16 and more) and adds camera guides for each one.
 
-<a href="https://store.csmx.eu/l/auto_format?layout=profile"><img src="https://img.shields.io/badge/Get%20it-Free-2ea44f?style=flat-square&logo=blender&logoColor=white" alt="Free"></a>
+<a href="https://store.csmx.eu/l/auto_format?layout=profile"><img src="https://img.shields.io/badge/Get%20it-%242-F5792A?style=flat-square&logo=blender&logoColor=white" alt="$2"></a>
 
 All of my software is listed at **[csmx.eu/dev](https://csmx.eu/dev)**.
 
