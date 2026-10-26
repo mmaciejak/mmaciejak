@@ -37,9 +37,23 @@ An AI replacement for the FAQ page. Visitors ask questions in their own words an
 
 <a href="https://store.csmx.eu/l/blender_autocomplete?layout=profile"><img src="https://img.shields.io/badge/Get%20it-%245-F5792A?style=flat-square&logo=blender&logoColor=white" alt="$5"></a>
 
-[**Blender Auto Format**](https://store.csmx.eu/l/auto_format?layout=profile) sets the render resolution automatically and adds camera guides for common formats.
+[**Blender Auto Format**](https://store.csmx.eu/l/auto_format?layout=profile) keeps one render resolution for many formats (16:9, 9:16 and more) and adds camera guides for each one.
 
 <a href="https://store.csmx.eu/l/auto_format?layout=profile"><img src="https://img.shields.io/badge/Get%20it-Free-2ea44f?style=flat-square&logo=blender&logoColor=white" alt="Free"></a>
+
+### Free web tools
+
+[**SzukajZguby**](https://szukajzguby.pl) is a lost-and-found search engine for Poland. It gathers the found-items lists that district and city offices publish on dane.gov.pl and makes them searchable in one place.
+
+<a href="https://szukajzguby.pl"><img src="https://img.shields.io/badge/Website-szukajzguby.pl-dc143c?style=flat-square" alt="szukajzguby.pl"></a>
+<img src="https://img.shields.io/badge/Open%20data-dane.gov.pl-555?style=flat-square" alt="Open data">
+
+[**Watermark Tool**](https://csmx.eu/tools/watermark) batch-watermarks images right in the browser. Nothing is uploaded and no login is needed.
+
+<a href="https://csmx.eu/tools/watermark"><img src="https://img.shields.io/badge/Open-csmx.eu%2Ftools%2Fwatermark-2ea44f?style=flat-square" alt="Watermark Tool"></a>
+<img src="https://img.shields.io/badge/Runs-client--side-555?style=flat-square" alt="Client-side">
+
+All of my software is listed at **[csmx.eu/dev](https://csmx.eu/dev)**.
 
 ---
 
